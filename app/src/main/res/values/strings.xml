@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab 1.2 BMI</string>
+    <string name="input_weight">Weight (kg)</string>
+    <string name="input_height">Height (m)</string>
+    <string name="textViewResult">Result</string>
+
+</resources>
